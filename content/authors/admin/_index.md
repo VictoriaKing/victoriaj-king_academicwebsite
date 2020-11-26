@@ -6,7 +6,7 @@ title: Victoria J King
 superuser: true
 
 # Role/position
-role: Physiology Doctoral Student
+role: Doctoral Student (Physiology)
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD candidate (Physiology)
     institution: University of Auckland
-    year: 2012
+    year: 
   - course: MSc (Physiology)
     institution: University of Auckland
     year: 2018
