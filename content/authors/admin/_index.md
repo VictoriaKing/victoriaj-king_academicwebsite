@@ -6,7 +6,7 @@ title: Victoria J King
 superuser: true
 
 # Role/position
-role: Doctoral Student (Physiology)
+role: Physiology Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD candidate (Physiology)
     institution: University of Auckland
-    year: 
+    year: 2012
   - course: MSc (Physiology)
     institution: University of Auckland
     year: 2018
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:v.king@auckland.ac.nz'  # For a direct email link, use "mailto:test@example.org".
+  link: 'v.king@auckland.ac.nz'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/victoriaj_king
