@@ -25,13 +25,11 @@ education:
   courses:
   - course: PhD candidate (Physiology)
     institution: University of Auckland
-    year: 
   - course: MSc (Physiology)
     institution: University of Auckland
-    year: 2018
   - course: BSc (Pharmacology and Physiology)
     institution: University of Auckland
-    year: 2012
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,5 +68,7 @@ user_groups:
 ---
 
 Victoria King is a doctoral candidate in the Department of Physiology in the FMHS, UoA.
+
+Website under construction!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
